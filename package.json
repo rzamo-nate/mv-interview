@@ -1,0 +1,16 @@
+{
+  "name": "multiverse",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@typescript-eslint/parser": "^5.0.1",
+    "eslint": "^8.52.0",
+    "jest": "^29.7.0",
+    "prettier": "^3.1.0",
+    "prettier-eslint": "^16.1.2",
+    "ts-jest": "^29.2.4",
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.5.4"
+  }
+}
